@@ -1,2 +1,0 @@
-- Making some sentences indicate the percentage of null values in each column:
-for i in df.columns:
