@@ -1,2 +1,0 @@
-Changing the order of Dataframe columns
-data.insert(3,'Total',data.pop('Total'))
